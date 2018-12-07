@@ -18,7 +18,7 @@ Features: <br>
 
 
 
-Portofolio : http://vasilache-andrei.herokuapp.com/
+Portfolio : http://vasilache-andrei.herokuapp.com/
 
 <br>
 
