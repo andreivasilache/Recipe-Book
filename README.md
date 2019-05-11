@@ -1,6 +1,6 @@
-# FirstProject
+# Recipe book
 
-Angular project made on <a href="https://www.udemy.com/the-complete-guide-to-angular-2/">Angular courses</a> . 
+
 
 
 This application is using a Firebase Database ( Is providing a good documentation for Tokens,Login CRUD requests, and so on ).
